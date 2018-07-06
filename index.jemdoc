@@ -1,0 +1,118 @@
+# jemdoc: {index.html}
+= Wenrui Diao's homepage
+
+~~~
+{}{img_left}{pic/image003.jpg}{alt text}{}{200px}{}
+
+== Wenrui Diao 刁文瑞
+Associate Professor
+
+College of Cyber Security, Jinan University (暨南大学)
+
+Guangzhou, China
+
+*Email:* diaowenrui \[AT\] link.cuhk.edu.hk
+
+#*Address:* Rm 726, Ho Sin-Hang Engineering Building, CUHK
+
+\[[https://scholar.google.com/citations?user=vRTj2FIAAAAJ&hl=en Google 
+Scholar]\] \[[https://dblp.org/pers/hd/d/Diao:Wenrui DBLP]\]
+
+~~~
+
+~~~
+*News:*
+
+>>> Apr 2018: One paper accepted by SecureComm 2018.
+
+>>> Mar 2018: One paper accepted by Journal of Computer Security.
+
+>>> Feb 2018: I will serve as TPC Member for ACM CCS 2018.
+~~~
+
+== Biography
+I am an Associate Professor in [http://xxxy.jnu.edu.cn College of Cyber Security] at [http://www.jnu.edu.cn/ Jinan University]. Before joining JNU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Also, I work closely with [https://zhouli-sec.weebly.com/ Dr. Zhou Li] and [http://www.informatics.indiana.edu/xw7/ Prof. XiaoFeng Wang]. I was a member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
+
+== Education
+- Aug 2013 - Aug 2017: Ph.D. in Information Engineering, supervised by [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], The Chinese University of Hong Kong, Hong Kong.
+- Sep 2016 - Jan 2017: Visiting Ph.D. Student, supervised by [http://www.informatics.indiana.edu/xw7/ Prof. XiaoFeng Wang], Indiana University, Bloomington, IN, USA.
+- Sep 2010 - Jun 2011: M.Sc. in Information Engineering, The Chinese University of Hong Kong, Hong Kong.
+- Sep 2006 - Jun 2010: B.Sc. in Information Security, Shandong University, Jinan, China.
+
+== Experience
+- Sep 2017 - Present: Associate Professor, Jinan University, Guangzhou, China.
+- Feb 2013 - Jul 2013: Research Assistant, supervised by [http://www.cs.cityu.edu.hk/~congwang/ Prof. Cong Wang], City University of Hong Kong, Hong Kong.
+- Nov 2011 - Jan 2013: System Application Engineer, Syniverse Technologies AP, Hong Kong.
+- Jun 2011 - Sep 2011: Software Engineer Intern, EMC Labs China, Shanghai, China.
+
+== Publications
+~~~
+Publications at top-tier venues (4 papers): IEEE S&P ('16), CCS ('14, '15), NDSS ('18)
+~~~
+
+. *\[SecureComm'18\]*​ Shuaike Dong, Menghao Li, *Wenrui Diao*, Xiangyu Liu, Jian Liu, Zhou Li, Fenghao Xu, Kai Chen, XiaoFeng Wang, and Kehuan Zhang. Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild. /The 14th EAI International Conference on Security and Privacy in Communication Networks/, Singapore​. August 2018. \[CCF C\]
+. *\[JCS\]* *Wenrui Diao*, Rui Liu, Xiangyu Liu, Zhe Zhou, Zhou Li, and Kehuan Zhang. Accessing Mobile User’s Privacy Based on IME Personalization: Understanding and Practical Attacks. /Journal of Computer Security/. 2018. \[CCF B\] \[[https://content.iospress.com/articles/journal-of-computer-security/jcs16909 Link]\]
+#. *\[DSN'18\]* Jia Chen, Ge Han, Shanqing Guo, and *Wenrui Diao*. FragDroid: Automated User Interface Interaction with Activity and Fragment Analysis in Android Applications. /The 48th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Luxembourg City, Luxembourg. June 2018. \[CCF B\]
+. *\[NDSS'18\]* Jiongyi Chen, *Wenrui Diao*, Qingchuan Zhao, Chaoshun Zuo, Zhiqiang Lin, XiaoFeng Wang, Wing Cheong Lau, Menghan Sun, Ronghai Yang, and Kehuan Zhang. IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing. /The 25th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 2018. \[CCF B\] \[[paper/ndss18-chen.pdf PDF]\]
+. *\[PETS'17\]* Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium/, Minneapolis, MN, USA. July 2017. \[CCF C\]
+. *\[Preprint\]* Nan Zhang, Soteris Demetriou, Xianghang Mi, *Wenrui Diao*, Kan Yuan, Peiyuan Zong, Feng Qian, XiaoFeng Wang, Kai Chen, Yuan Tian, Carl A. Gunter, Kehuan Zhang, Patrick Tague, and Yue-Hsun Lin. Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be. /arXiv Preprint, CoRR abs/1703.09809/. 2017. \[[https://arxiv.org/pdf/1703.09809.pdf PDF]\]
+. *\[WiSec'16\]* *Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. Evading Android Runtime Analysis Through Detecting Programmed Interactions. /The 9th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, Darmstadt, Germany. July 2016. \[CCF C\] \[[paper/wisec16-diao.pdf PDF]\]
+. *\[IEEE S&P'16\]* *Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis. /The 37th IEEE Symposium on Security and Privacy/, San Jose, CA, USA. May 2016. \[CCF A\] \[[paper/oakland16-diao.pdf PDF]\]
+. *\[CCS'15\]* Xiangyu Liu, Zhe Zhou, *Wenrui Diao*, Zhou Li, and Kehuan Zhang. When Good Becomes Evil: Keystroke Inference with Smartwatch. /The 22nd ACM Conference on Computer and Communications Security/, Denver, CO, USA. October 2015. \[CCF A\] \[[paper/ccs15-liu.pdf PDF]\] 
+. *\[ESORICS'15\]* *Wenrui Diao*, Xiangyu Liu, Zhe Zhou, Kehuan Zhang, and Zhou Li. Mind-Reading: Privacy Attacks Exploiting Cross-App KeyEvent Injections. /The 20th European Symposium on Research in Computer Security/, Vienna, Austria. September 2015. \[CCF B\] \[[paper/esorics15-diao.pdf PDF]\] \[[https://sites.google.com/site/imedemo/ Demo]\] \[Media Coverage: [http://www.antihackingonline.com/cell-phone-iphone-android-windows-mobile/price-of-your-privacy-mobile-phone/ AntiHackingOnline]\]
+. *\[IFIP SEC'15\]* Xiangyu Liu, Zhe Zhou, *Wenrui Diao*, Zhou Li, and Kehuan Zhang. An Empirical Study on Android for Saving Non-shared Data on Public Storage. /The 30th IFIP International Information Security and Privacy Conference/, Hamburg, Germany. May 2015. \[CCF C\]
+. *\[SPSM'14\]* *Wenrui Diao*, Xiangyu Liu, Zhe Zhou, and Kehuan Zhang. Your Voice Assistant is Mine: How to Abuse Speakers to Steal Information and Control Your Phone. /The 4th Annual ACM CCS Workshop on Security and Privacy in Smartphones and Mobile Devices/, Scottsdale, AZ, USA. November 2014. \[[paper/spsm14-diao.pdf PDF]\] \[[https://sites.google.com/site/demogvs/ Demo]\] \[Media Coverage: [https://uk.news.yahoo.com/google-voice-search-android-smartphones-could-exploited-malware-061413938.html Yahoo! News], [http://www.theregister.co.uk/2014/07/29/bump_in_the_night_nope_its_your_android_blabbering_to_hackers/ The Register], [http://www.ibtimes.co.uk/google-voice-search-android-smartphones-could-be-exploited-by-malware-states-research-1461842 IBTimes], [http://www.net-security.org/secworld.php?id=17178 Help Net Security], [http://www.tomsguide.com/us/loudmouth-android-malware-secrets,news-19234.html Tom's Guide], [http://www.cnbeta.com/articles/312895.htm cnBeta], [https://news.mingpao.com/pns/%E5%AD%B8%E8%80%85%E6%8F%AD%E6%89%8B%E6%A9%9F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E6%BC%8F%E6%B4%9E%20%E9%BB%91%E5%AE%A2%E9%81%99%E6%8E%A7%E8%AA%9E%E9%9F%B3%E5%8A%9F%E8%83%BD%E7%9B%9C%E7%A7%81%E9%9A%B1/web_tc/article/20150710/s00002/1436464098927 Ming Pao (明報)], [http://news.takungpao.com.hk/paper/q/2015/0710/3046081.html Ta Kung Pao (大公報)], [http://std.stheadline.com/yesterday/edu/0710go04.html Sing Tao Daily (星島日報)]\]
+. *\[CCS'14\]* Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, and Kehuan Zhang. Acoustic Fingerprinting Revisited: Generate Stable Device ID Stealthily with Inaudible Sound. /The 21st ACM Conference on Computer and Communications Security/, Scottsdale, AZ, USA. November 2014. \[CCF A\] \[[paper/ccs14-zhou.pdf PDF]\] 
+
+== Professional Activities
+TPC Member:
+- ACM Conference on Computer and Communications Security (CCS): 2018
+
+Reviewer:
+- IEEE Transactions on Information Forensics and Security
+- Journal of Network and Computer Applications (Elsevier)
+- Applied Computing and Informatics (Elsevier)
+- The Computer Journal (Oxford)
+- Journal on Communications (通讯学报)
+
+External Reviewer:
+- Network and Distributed System Security Symposium (NDSS): 2018
+- ACM Conference on Computer and Communications Security (CCS): 2014, 2015, 2016, 2017
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): 2017
+- IEEE European Symposium on Security and Privacy (IEEE EuroS&P): 2017
+- ACM Asia Conference on Computer and Communications Security (ASIACCS): 2016, 2017
+- EAI International Conference on Security and Privacy in Communication Networks (SecureComm): 2016
+- USENIX Workshop on Offensive Technologies (WOOT): 2016
+- Information Security Conference (ISC): 2014
+
+
+== Invited Talks
+- Security Threats to Android System: Exploration, Understanding, and Defense
+-- May 2017: Shandong University, Jinan, China
+-- Apr 2017: Shanghai Jiao Tong University, Shanghai, China
+
+== Teaching
+Teaching Assistant@CUHK:
+- IERG 4090 - Networking Protocols and Systems: 2016 Spring, 2017 Spring
+- IERG 4831 - Networking Laboratory I: 2016 Spring, 2017 Spring
+- IERG 3921 - Information Engineering Lab: 2015 Fall
+- IEMS 5710 - Cryptography, Information Security & Privacy: 2015 Spring
+- IERG 4210 - Web Programming and Security: 2015 Spring
+- IERG 3310 - Computer Networks: 2014 Fall
+
+== Awards
+- 2017: PETS 2017 Stipends, The 17th Privacy Enhancing Technologies Symposium
+- 2017: Reaching Out Award 2016/17, HKSAR Government Scholarship Fund
+- 2016: IEEE S&P 2016 Student Travel Grants, The 37th IEEE Symposium on Security and Privacy
+- 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
+
+
+#== Reported Vulnerabilities
+
+#- AndroidID-32940378, AndroidID-33000178
+
+== Useful Links
+- [https://seclab.skku.edu/publications/events/ SKKU seclab | Upcoming Events]
+- [http://www.uclouvain.be/crypto/callforpapers/forthcoming UCL Crypto Group | Call for Papers]
+- [http://jianying.space/conference-ranking.html Top Crypto and Security Conferences Ranking]
+- [http://s3.eurecom.fr/~balzarot/notes/top4/index.html 10+ Years of System Security Circus]
