@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Muhammad Ikram @UMich</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Muhammad Ikram @UMich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I am passionate about data-driven analysis of online privacy &amp;amp; security issues and abuses in networked systems. I am keen in using statistical methods to derive salient features and use applied machine-learning algorithms to auto-detect these issues and abuses for vetting and correcting purposes.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description>Rahat Masood, Dinusha Vatsalan, Muhammad Ikram and Mohamed Ali Kaafar, “Incognito: A Method for Obfuscating Web Data”, World Wide Web (WWW), 2018.
+ Muhammad Ikram and Mohamed Ali Kaafar, “A First Look at Ad Blocking Apps“, in IEEE Network Computing and Application (NCA), 2017. [Slides]
+ Muhammad Ikram, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar, Zubair Shafiq, “Measuring, Characterizing, Detecting Facebook Like Farms“, ACM Transaction on Privacy and Security (TOPS), 2017.</description>
+    </item>
+    
+  </channel>
+</rss>
